@@ -19,7 +19,6 @@ int main()
        cout << "good girl\v  priya\v bin\v";
        //vertical tab
     cout << "good girl\?";
-
-
+//need to give \ before print syntex
     getch();
 }
